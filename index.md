@@ -4,6 +4,6 @@
 	 <title></title>
 </head>
 <body>
-	  test
+	  This is index.md file.
 </body>
 </html>
