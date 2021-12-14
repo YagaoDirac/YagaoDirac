@@ -1,14 +1,14 @@
 回归程序大方向不久。
-最近准备吧ts，js，react，html5，尽量确认清楚，我的意思是所有的细节。
-之后准备tensorflow.js，学到能用。
-再之后就看情况了。可能会试试scala，但是要看有哪些工具，没什么有趣的工具的话，可能就是看看语法就过了。
-我在网上通常是用的 YagaoDirac 这个名字。我在Pixiv.net上的ID是yagaodirac2017（另外一个ID暂时停用了），数字ID是10854271（好像是这个）
+<br/>最近准备吧ts，js，react，html5，尽量确认清楚，我的意思是所有的细节。
+<br/>之后准备tensorflow.js，学到能用。
+<br/>再之后就看情况了。可能会试试scala，但是要看有哪些工具，没什么有趣的工具的话，可能就是看看语法就过了。
+<br/>我在网上通常是用的 YagaoDirac 这个名字。我在Pixiv.net上的ID是yagaodirac2017（另外一个ID暂时停用了），数字ID是10854271（好像是这个）
 
 主要领域是：
 <br/>
-程序。
-数码绘画。（以后可能会见起效，但是是停了）
-游戏机制研究（游戏规则设计与形态的相互关系，复杂叙事类游戏用世界观搭建方法，基于格子的游戏用物流系统，游戏用算法，放置游戏的基本原理）
+<br/>程序。
+<br/>数码绘画。（以后可能会见起效，但是是停了）
+<br/>游戏机制研究（游戏规则设计与形态的相互关系，复杂叙事类游戏用世界观搭建方法，基于格子的游戏用物流系统，游戏用算法，放置游戏的基本原理）
 
 代码方面的技能是：
 <br/>
@@ -18,19 +18,19 @@
 
 最近的计划：
 <br/>
-正在做一个放置游戏Upgrade generator.（React ts）
-计划中的项目有：
-跑步小助手（安卓，可能有苹果）
-学tensorflow。之前学了一下keras，不过很浅。
-很简单的生态系统模拟，基于粒子，利用自适应网格提升碰撞检测性能，之后用tf调参。
-在tf上做一个智能体，并尝试让这个智能体做一些真实的事情。当然这个计划非常的科幻，不能算最近计划了。
+<br/>正在做一个放置游戏Upgrade generator.（React ts）
+<br/>计划中的项目有：
+<br/>跑步小助手（安卓，可能有苹果）
+<br/>学tensorflow。之前学了一下keras，不过很浅。
+<br/>很简单的生态系统模拟，基于粒子，利用自适应网格提升碰撞检测性能，之后用tf调参。
+<br/>在tf上做一个智能体，并尝试让这个智能体做一些真实的事情。当然这个计划非常的科幻，不能算最近计划了。
 
 如果有这些方面的计划，我可以来帮忙。不过要看兴趣。
 <br/>
-Any algo. As heavily mathmatically. Although I'm only a bit good at math.
-Game of life
-Particle based physical simulation
-Partical life
+<br/>Any algo. As heavily mathmatically. Although I'm only a bit good at math.
+<br/>Game of life
+<br/>Particle based physical simulation
+<br/>Partical life
 
 应该是永久停止了的：
 <br/>
