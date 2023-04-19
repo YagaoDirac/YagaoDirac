@@ -1,8 +1,9 @@
 Last update 2023 apr 19
 
-I'm recently learning electronics. Deep learning is still my top hobby. I plan to translate my articles into English.
+以后可能就全部用英语写了。中文的属于遗留部分。
+I'm recently learning Electronics. Deep learning is still my top hobby. I plan to translate my articles into English.
 
-<br/>我在网上通常是用的 YagaoDirac 这个名字。我在Pixiv.net上的ID是yagaodirac2017（另外一个ID暂时停用了），数字ID是10854271（好像是这个）
+<br/>我在网上通常是用的 YagaoDirac 这个名字。
 
 主要领域是：
 <br/>程序。
@@ -16,8 +17,8 @@ I'm recently learning electronics. Deep learning is still my top hobby. I plan t
 <br/>认真玩过，不想再碰了：lua。Factorio mod api。
 
 最近的计划：
-<br/>能把虚幻彻底搞清楚就不错了。暂时没有制作任何东西的计划。
-<br/>在进行的是一个虚幻的学习笔记，非常进阶的那种。不推荐新手看。
+<br/>Learn Electronics.
+<br/>Translate my articles into English.
 
 如果有这些方面的计划，我可以来帮忙。不过要看兴趣。
 <br/>Virtual realistic natural environment algo, especially for video game purpose.
@@ -30,7 +31,8 @@ I'm recently learning electronics. Deep learning is still my top hobby. I plan t
 <br/>代码片段，虚幻的有visual assist了，不用我再麻烦了。c++的有可能以后还会继续做，但是最近不是很有心情。
 
 我的代码库里面有什么（完成度比较高的）：
-
+<br/>My ideas on Deep learning. (WIP)
+<br/>My brief tutorial on Electronics. (WIP, not uploaded atm)
 <br/>虚幻的学习笔记。
 <br/>画画用的训练工具。
 <br/>生活小妙招（包括懒人厨房技巧，减肥技巧，跑步的研究，持续更新中）
@@ -39,6 +41,7 @@ I'm recently learning electronics. Deep learning is still my top hobby. I plan t
 <br/>异星工厂的地图和mod（也可以去mods.factorio.com里面搜我的ID，反正两个地图是可以玩的，只是还可以继续往下写）
 
 长远计划：
+<br/>Learn deep learning. Make an artificial consciousness contiainer for myself.
 <br/>我想做一个电子游戏规则研究的学术期刊。
 <br/>等BCI，然后再试试画画，然后看要不要研究做动画。
 
