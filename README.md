@@ -1,6 +1,7 @@
 Last update 2023 apr 19
 
 以后可能就全部用英语写了。中文的属于遗留部分。
+
 I'm recently learning Electronics. Deep learning is still my top hobby. I plan to translate my articles into English.
 
 <br/>我在网上通常是用的 YagaoDirac 这个名字。
