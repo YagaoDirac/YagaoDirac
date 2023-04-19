@@ -1,13 +1,14 @@
-Last update 2022 aug 14
+Last update 2023 apr 19
 
-最近在复习虚幻，包括4和5。现在能很顺利的读英语的材料了，突然发现可以利用的资料其实非常多，估计要慢慢花点时间把相关的细节搞扎实。
-<br/>之前学的深度学习基本上就是作为在某些特殊需求的时候的一个技能储备，暂时不深入了。
+I'm recently learning electronics. Deep learning is still my top hobby. I plan to translate my articles into English.
 
 <br/>我在网上通常是用的 YagaoDirac 这个名字。我在Pixiv.net上的ID是yagaodirac2017（另外一个ID暂时停用了），数字ID是10854271（好像是这个）
 
 主要领域是：
 <br/>程序。
-<br/>游戏机制研究（游戏规则设计与形态的相互关系，复杂叙事类游戏用世界观搭建方法，基于格子的游戏用物流系统，游戏用算法，放置游戏的基本原理）
+<br/>模拟电路和一点点的数字电路。
+<br/>深度学习。（主要是训练有效性，人工意识，方面，纯爱好。）
+<br/>电子游戏机制研究（游戏规则设计与形态的相互关系，复杂叙事类游戏用世界观搭建方法，基于格子的游戏用物流系统，游戏用算法，放置游戏的基本原理）
 
 代码方面的技能是：
 <br/>核心，正在：c++，unreal engine，
@@ -42,12 +43,11 @@ Last update 2022 aug 14
 <br/>等BCI，然后再试试画画，然后看要不要研究做动画。
 
 联系方式：
-<br/>Github留言
-<br/>https://discord.gg/UjwhGAvGVV
-<br/>Pixiv留言
+<br/>T(w)itter: yagaodirac
+<br/>Github留言，可能看不到。
 <br/>qq：449650331
 <br/>Wechat: yagaodirac
-<br/>yagaodirac@gmail.com
+<br/>yagaodirac@gmail.com（可能看不到）
 
 <!---
 YagaoDirac/YagaoDirac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
